@@ -8,8 +8,8 @@ app.listen(5000,()=>console.log("listening on 5000"));
 
 //Swagger Configuration
 const swaggerOptions = {
-    swaggerDefinition :{
-        info:{
+    swaggerDefinition: {
+        info: {
             title:'Employee API',
             version:'1.0.0'
         }
@@ -22,11 +22,12 @@ app.use('/api-docs',swaggerUI.serve,swaggerUI.setup(swaggerDocs));
 /**
  * @swagger
  * /Employees:
- * get:
- * description: Get All Employee
- * responses: 
- * 200: 
- * description:Success
+ *   get:
+ *     description: Get all Employee
+ *     responses: 
+ *       200:
+ *         description: Success 
+ *  
  */
 app.get('/Employees',(req,res)=>{
     res.send([
