@@ -1,4 +1,4 @@
-## Integrate Open APi(Swagger) with Node & Express
+## Integrate Open API(Swagger) with Node & Express
 
 ### Topic to be covered in this article
 - Tools required
