@@ -1,6 +1,6 @@
 ## Integrate Open APi(Swagger) with Node & Express
 
-###Topic to be covered in this article
+### Topic to be covered in this article
 - Tools required
 - Required Packages
 - Setting up the Swagger
