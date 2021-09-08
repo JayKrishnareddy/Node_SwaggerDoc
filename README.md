@@ -11,3 +11,5 @@
 If you want to learn more about this Article 👇🏻
 
 [**C# Corner**](https://www.c-sharpcorner.com/article/integrate-swagger-open-api-with-node-express/ "C# Corner")
+
+[**Medium**](https://jaykrishnareddy.medium.com/integrate-open-api-swagger-with-node-and-express-b5b77bdc081b "Medium")
