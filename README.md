@@ -1,5 +1,7 @@
 ## Integrate Open API(Swagger) with Node & Express
 
+![picture alt](https://github.com/JayKrishnareddy/Node_SwaggerDoc/blob/master/J1.png "Node.js + Swagger")
+
 ### Topic to be covered in this article
 - Tools required
 - Required Packages
