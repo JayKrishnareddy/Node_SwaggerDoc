@@ -6,7 +6,7 @@
 - Tools required
 - Required Packages
 - Setting up the Swagger
-- Run & Test
+- Run & Test the Application
 
 If you want to learn more about this Article 👇🏻
 
